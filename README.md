@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Lillow">
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=ocean_dark_all_commits=true&count_private=true"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
