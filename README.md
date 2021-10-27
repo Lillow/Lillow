@@ -1,6 +1,6 @@
 ## Oii! Sou Danillo Silva
 
-- 👩‍💻 Desenvolvedor Full-Stack em formação
+- :seedling: Estudando, Java, POO, Javascript, HTML, CSS e MySQL
 
 - :books: Aluno Generation
 
