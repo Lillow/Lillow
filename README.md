@@ -1,6 +1,6 @@
 ## Oii! Sou Danillo Silva
 
-- :seedling: Estudando, Java, POO, Javascript, HTML, CSS e MySQL
+- :seedling: Estudando, Java, POO, MySQL e Spring
 
 - :books: Aluno Generation
 
@@ -18,7 +18,12 @@
   <img align="center" alt="Lillo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lillo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lillo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lillo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Lillo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>
+  <img align="center" alt="Lillo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Lillo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Lillo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Lillo-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
   <img align="right" alt="Lillo-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/871906649433059488/894355307780775956/5p4uo1.gif"/>
 </div>
 
