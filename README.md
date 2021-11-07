@@ -1,6 +1,6 @@
 ## Oii! Sou Danillo Silva
 
-- :seedling: Estudando, Java, POO, MySQL e Spring
+- :seedling: Estudando Java, POO, React e Spring boot
 
 - :books: Aluno Generation
 
