@@ -1,18 +1,40 @@
-## Oii! Sou Danillo Silva
+### OLÁ MUNDO! 👋
 
-- :seedling: Estudando Java, POO, React e Spring boot
+Gosto de criar, adaptar e reformular.
 
-- :books: Aluno Generation
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- :nerd_face: He/Ele/Dele
+<img align="right" width="445" height="470" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-
-<div align="center">
-  <a href="https://github.com/Lillow">
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="335px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&layout=compact&langs_count=7&theme=dark"/>
-</div>
+```javascript
+ 
+const sobreMim = {
+  pronomes: "Ele" | "Dele",
+  usuario: "Danillo Silva",
+  função: "full-stack",
+  educação_atual: "Generation Brasil"
+  hobbies: [
+  "Estudar",
+  "Assistir (animes, séries e filmes)",
+  "Jogos eletrônicos",
+  "Ficar acordado a noite toda perseguindo aquele ÚNICO  ' ; ' ! ... " ]
+ }
+ 
+ function getCidadeAtual() {
+	return Paulista-PE_Brasil
+  }
   
+  function Ambições() {
+	descobrirPorque42ÉrespostaParaTudo()
+	impedirCriaçãoDaSkyNet()
+	meTornarImortal()
+	}
+ ```
+</br>
+
+
+## **Linguagens e Ferramentas:**  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lillo-javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lillo-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -26,12 +48,26 @@
   <img align="center" alt="Lillo-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt="Lillo-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Lillo-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+  </br>
+  </br>
   
-  <img align="right" alt="Lillo-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/871906649433059488/894355307780775956/5p4uo1.gif"/>
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=dracula&line_height=27" alt="**Lilloww** github stats"/>
+</a>
 </div>
-    
-##
-  
+
+</br>
+
+## **Como me contatar:**  
+
+<div style="display: inline_block"><br>
 <div> 
   <a href="https://www.instagram.com/danillordm19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danillordm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
