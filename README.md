@@ -55,11 +55,11 @@ const sobreMim = {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=dracula&hide_langs_below=1" />
+  <img align="center" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=ocean_dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=dracula&line_height=27" alt="**Lilloww** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=ocean_dark&line_height=27" alt="**Lillow** github stats"/>
 </a>
 </div>
 
