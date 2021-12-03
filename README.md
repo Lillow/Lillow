@@ -12,7 +12,7 @@ const sobreMim = {
   pronomes: "Ele" | "Dele",
   usuario: "Danillo Silva",
   função: "full-stack",
-  educação_atual: "Generation Brasil"
+  educação_atual: "Generation Brasil",
   hobbies: [
   "Estudar",
   "Assistir (animes, séries e filmes)",
