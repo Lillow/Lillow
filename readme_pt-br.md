@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td>
-      <a href="README.md">🇺🇸 English</a>
+      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="readme_pt-br.md">🇧🇷 Português</a>
+      <a href="README.md">🇺🇸 English | Inglês</a>
     </td>
   </tr>
 </table>
