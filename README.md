@@ -1,52 +1,62 @@
 <table>
   <tr>
     <td>
-      <a href="README.md">🇺🇸 English | Inglês</a>
+      <a href="README.md">🇺🇸 English
     </td>
   </tr>
   <tr>
     <td>
-      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
+      <a href="readme_pt-br.md">🇧🇷 Portuguese
     </td>
   </tr>
 </table>
 
-### OLÁ MUNDO! 👋
+<h1 align="center">
+  Hello World!
+  <img 
+    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+    width="30px">
+  <br />
+  Welcome to my Profile!!!
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=Lillow.marcelo-rafael"
+    alt="visitors">
+</h1>
 
-Gosto de criar, adaptar e reformular.
+I like to create, adapt and reformulate.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="410" height="420" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
  
-const sobreMim = {
-  pronomes: "Ele" | "Dele",
-  usuario: "Danillo Silva",
-  função: "full-stack",
-  educação_atual: "Generation Brasil",
+const aboutMe = {
+  pronouns: "He" | "His",
+  user: "Danillo Silva",
+  function: "full-stack",
+  current_education: "Generation Brazil",
   hobbies: [
-  "Estudar",
-  "Assistir (animes, séries e filmes)",
-  "Jogos eletrônicos",
-  "Ficar acordado a noite toda perseguindo aquele ÚNICO  ' ; ' ! ... " ]
+  "Studying",
+  "Watching (animes, series and movies)",
+  "Electronic games",
+  "To stay up all night chasing that ONE '; '!..." ]
  }
  
- function getCidadeAtual() {
-	return Paulista-PE_Brasil
+ function getCurrentCity() {
+	return Paulista-PE_Brazil
   }
   
-  function Ambições() {
-	descobrirPorque42ÉrespostaParaTudo()
-	impedirCriaçãoDaSkyNet()
-	meTornarImortal()
+  function Ambitions() {
+	findOutWhy42IsTheAnswerToEverything()
+	preventSkyNetCreation()
+	becomeImmortal()
 	}
  ```
 </br>
 
 
-## **Linguagens e Ferramentas:**  
+## **Languages and frameworks:**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lillo-javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -65,7 +75,7 @@ const sobreMim = {
   </br>
   </br>
   
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=ocean_dark&hide_langs_below=1" />
@@ -78,7 +88,7 @@ const sobreMim = {
 
 </br>
 
-## **Como me contatar:**  
+## **How to contact me:**  
 
 <div style="display: inline_block"><br>
 <div> 
