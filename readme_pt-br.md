@@ -1,19 +1,27 @@
 <table>
   <tr>
     <td>
-      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
+      <a href="readme_pt-br.md">🇧🇷 Português</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="README.md">🇺🇸 English | Inglês</a>
+      <a href="README.md">🇺🇸 Inglês</a>
     </td>
   </tr>
 </table>
 
-### OLÁ MUNDO! 👋
-
-Gosto de criar, adaptar e reformular.
+<h1 align="center">
+  Olá mundo!
+  <img 
+    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+    width="30px">
+  <br />
+  Bem-vindos ao meu perfil!!!
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=Lillow.marcelo-rafael"
+    alt="visitors">
+</h1>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
