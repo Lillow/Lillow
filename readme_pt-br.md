@@ -1,13 +1,13 @@
 <table>
-      <h1>Idioma</h1>
+      <h1>Idioma/Language</h1>
   <tr>
     <td>
-      <a href="readme_pt-br.md">🇧🇷 Português</a>
+      <a href="readme_pt-br.md">🇧🇷 Português/Portuguese</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="README.md">🇺🇸 Inglês</a>
+      <a href="README.md">🇺🇸 Inglês/English</a>
     </td>
   </tr>
 </table>
