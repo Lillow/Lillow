@@ -2,12 +2,12 @@
       <h2>Language/Idioma</h2>
   <tr>
     <td>
-      <a href="README.md">🇺🇸 English/Inglês
+      <a href="README.md">🇺🇸 English | Inglês
     </td>
   </tr>
   <tr>
     <td>
-      <a href="readme_pt-br.md">🇧🇷 Portuguese/Português
+      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português
     </td>
   </tr>
 </table>
