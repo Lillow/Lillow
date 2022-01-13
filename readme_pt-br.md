@@ -1,5 +1,5 @@
 <table>
-      <h1>Idioma/Language</h1>
+      <h2>Idioma/Language</h2>
   <tr>
     <td>
       <a href="README.md">🇺🇸 Inglês | English</a>
