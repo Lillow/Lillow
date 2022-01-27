@@ -28,7 +28,7 @@ I like to create, adapt and reformulate.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-<img align="right" width="440" height="440" src="https://i.imgur.com/sgQqwqS.gif" />
+<img align="right" width="435" height="435" src="https://i.imgur.com/sgQqwqS.gif" />
 
 ```javascript
  
