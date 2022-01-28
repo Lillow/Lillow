@@ -24,7 +24,9 @@
     alt="visitors">
 </h1>
 
-I like to create, adapt and reformulate.
+<h2 align=center>
+<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23360066&size=24&duration=6642&center=true&vCenter=true&width=966&height=90&lines=My+name+is+Danillo+Silva;I+am+Junior+Full-Stack+Web+Developer;+I+like+to+create%2C+adapt+and+reformulate"/>
+</h2>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
@@ -82,9 +84,9 @@ const aboutMe = {
 ## **GitHub Statistics**
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=ocean_dark&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=midnight-purple&hide_langs_below=1" />
 	</br>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=ocean_dark&line_height=27" alt="**Lillow** github stats"/>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=midnight-purple&line_height=27" alt="**Lillow** github stats"/>
   </div>
 </div>
 
