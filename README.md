@@ -21,9 +21,9 @@
   Welcome to my Profile!!!
 </h1>
 
-<h2 align=center>
+<p align=center>
 <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=My+name+is+Danillo+Silva;I+am+Junior+Full-Stack+Web+Developer;I+like+to+create%2C+adapt+and+reformulate"/>
-</h2>
+<p>
 
 ## :space_invader: More about me :space_invader:
 
