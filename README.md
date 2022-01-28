@@ -81,9 +81,9 @@ const aboutMe = {
 ## **GitHub Statistics**
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=midnight-purple&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=en" />
 	</br>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=midnight-purple&line_height=27" alt="**Lillow** github stats"/>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
   </div>
 </div>
 
