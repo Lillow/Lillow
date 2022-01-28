@@ -93,7 +93,6 @@ const aboutMe = {
 ## How to contact me:
 
 <div align="center"><br>
-[exemplo](https://github.com/Lillow/Lillow/edit/main/README.md)
 	
   <a href="https://www.instagram.com/danillordm19/" rel = "noopener"><img alt="Lillo-instagram" src="https://img.shields.io/badge/Instagram-A215A2?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:danillordm@gmail.com"><img alt="Lillo-gmail" src="https://img.shields.io/badge/-Gmail-350066?style=for-the-badge&logo=gmail&logoColor=white"></a>
