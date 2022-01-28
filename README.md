@@ -94,7 +94,7 @@ const aboutMe = {
 
 <div align="center"><br>
 
-  <a href="https://www.instagram.com/danillordm19/" rel = "noopener"><img alt="Lillo-instagram" src="https://img.shields.io/badge/Instagram-A215A2?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/danillordm19/" target="_blank" rel = "noopener"><img alt="Lillo-instagram" src="https://img.shields.io/badge/Instagram-A215A2?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:danillordm@gmail.com"><img alt="Lillo-gmail" src="https://img.shields.io/badge/-Gmail-350066?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/danillo-silva-b861a393/"><img alt="Lillo-linkediin" src="https://img.shields.io/badge/-LinkedIn-A215A2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://codepen.io/lillo42/pens/public"><img alt="Lillo-codepen" src="https://img.shields.io/badge/Codepen-350066?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
