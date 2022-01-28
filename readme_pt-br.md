@@ -19,13 +19,10 @@
     width="30px">
   <br />
   Bem-vindos ao meu perfil!!!
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=Lillow"
-    alt="visitors">
 </h1>
 
 <h2 align=center>
-   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23360066&size=24&duration=6642&center=true&vCenter=true&width=966&height=90&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
+   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
 </h2>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -61,18 +58,18 @@ const sobreMim = {
 ## **Linguagens e Ferramentas:**  
 
 <div align="center"><br>
-<img align="center" alt="Lillo-javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Lillo-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Lillo-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Lillo-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Lillo-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="center" alt="Lillo-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Lillo-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img align="center" alt="Lillo-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png">
+<!-- <img align="center" alt="Lillo-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
+<img align="center" alt="Lillo-html" height="60" width="60" src="https://i.imgur.com/meokl5Y.png">
+<img align="center" alt="Lillo-css" height="60" width="60" src="https://i.imgur.com/ku8Fufv.png">
+<img align="center" alt="Lillo-bootstrap" height="60" width="60" src="https://i.imgur.com/ZeX4O69.png"/>
+<img align="center" alt="Lillo-react" height="60" width="60" src="https://i.imgur.com/D33dVDi.png" />
+<img align="center" alt="Lillo-angular" height="60" width="60" src="https://i.imgur.com/VwWLPog.png" />
 
 
   <!--   <img align="center" alt="Lillo-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="center" alt="Lillo-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Lillo-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Lillo-java" height="60" width="60" src="https://i.imgur.com/QsBzocU.png" />
+  <img align="center" alt="Lillo-spring" height="60" width="60" src="https://i.imgur.com/R6UPprG.png"/>
 <!--   <img align="center" alt="Lillo-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Lillo-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Lillo-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
