@@ -84,9 +84,9 @@ const sobreMim = {
 ## **GitHub Estatísticas**
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=ocean_dark&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&theme=midnight-purple&hide_langs_below=1" />
 	</br>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=ocean_dark&line_height=27" alt="**Lillow** github stats"/>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&show_icons=true&theme=midnight-purple&line_height=27" alt="**Lillow** github stats"/>
   </div>
 </div>
 
