@@ -28,14 +28,14 @@
 ## :space_invader: Mais sobre mim :space_invader:
 
 <div>
-<img align="right" width="430" height="435" src="https://i.imgur.com/sgQqwqS.gif" />
+<img align="right" width="435" height="435" src="https://i.imgur.com/sgQqwqS.gif" />
 
 
 ```javascript
  
 const sobreMim = {
-  pronomes: "Ele" | "Dele",
   usuario: "Danillo Silva",
+  pronomes: "Ele" | "Dele",
   função: "full-stack",
   educação_atual: "Generation Brasil",
   hobbies: [
