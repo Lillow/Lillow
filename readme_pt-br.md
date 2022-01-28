@@ -24,7 +24,9 @@
     alt="visitors">
 </h1>
 
-Gosto de criar, adaptar e reformular.
+<h2 align=center>
+   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23360066&size=24&duration=6642&center=true&vCenter=true&width=966&height=90&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
+</h2>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
