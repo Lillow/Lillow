@@ -28,7 +28,7 @@
 ## :space_invader: Mais sobre mim :space_invader:
 
 <div>
-<img align="right" width="435" height="435" src="https://i.imgur.com/sgQqwqS.gif" />
+<img align="right" width="420" height="420" src="https://i.imgur.com/sgQqwqS.gif" />
 
 
 ```javascript
