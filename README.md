@@ -21,11 +21,11 @@
   Welcome to my Profile!!!
 </h1>
 
-<div align=center>
+<h2 align=center>
 <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=My+name+is+Danillo+Silva;I+am+Junior+Full-Stack+Web+Developer;I+like+to+create%2C+adapt+and+reformulate"/>
-</div>
+</h2>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+<h2> <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me </h2>
 
 <img align="right" width="430" height="435" src="https://i.imgur.com/sgQqwqS.gif" />
 
@@ -89,13 +89,13 @@ const aboutMe = {
 
 </br>
 
-<h2>How to contact me:</h2> 
+<h2>How to contact me:</h2>
 
 <div align="center"><br>
 
-  <a href="https://www.instagram.com/danillordm19/" rel = "noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:danillordm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/danillo-silva-b861a393/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://codepen.io/lillo42/pens/public"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
+  <a href="https://www.instagram.com/danillordm19/" rel = "noopener"><img alt="Lillo-instagram" src="https://img.shields.io/badge/Instagram-A215A2?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:danillordm@gmail.com"><img alt="Lillo-gmail" src="https://img.shields.io/badge/-Gmail-350066?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danillo-silva-b861a393/"><img alt="Lillo-linkediin" src="https://img.shields.io/badge/-LinkedIn-A215A2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codepen.io/lillo42/pens/public"><img alt="Lillo-codepen" src="https://img.shields.io/badge/Codepen-350066?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
 
 </div>
