@@ -1,4 +1,4 @@
-<table>
+<table id="top">
       <h2>Idioma/Language</h2>
   <tr>
     <td>
@@ -22,7 +22,7 @@
 </h1>
 
 <p align=center>
-   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=1050&height=60&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Estudo+análise+e+desenvolvimento+de+sistemas;Gosto+de+criar%2C+adaptar+e+reformular"/>
+   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
 <p>
 
 ## :space_invader: Mais sobre mim :space_invader:
@@ -102,3 +102,5 @@ const sobreMim = {
   <a href="https://codepen.io/lillo42/pens/public"><img alt="Lillo-codepen" src="https://img.shields.io/badge/Codepen-350066?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
 
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Voltar ao topo-67285e??style=flat&logo"></a></p>
