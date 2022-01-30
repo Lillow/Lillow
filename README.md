@@ -35,7 +35,7 @@ const aboutMe = {
   user: "Danillo Silva",
   pronouns: "He" | "His",
   function: "full-stack",
-  current_education: "Generation Brazil",
+  current_education: "UNINABUCO",
   hobbies: [
   "Studying",
   "Watching (animes, series and movies)",
