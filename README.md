@@ -104,3 +104,5 @@ const aboutMe = {
   <a href="https://codepen.io/lillo42/pens/public"><img alt="Lillo-codepen" src="https://img.shields.io/badge/Codepen-350066?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
 
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Voltar ao topo-67285e??style=flat&logo"></a></p>
