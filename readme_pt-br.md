@@ -25,7 +25,7 @@
    <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
 <p>
 
-## :space_invader: Mais sobre mim :space_invader:
+<h2 align="center">👾 Mais sobre mim 👾</h2>
 
 <div>
 <img align="right" width="420" height="420" src="https://i.imgur.com/sgQqwqS.gif" />
@@ -58,7 +58,7 @@ const sobreMim = {
 </div>
 </br>
 
-<h2> Linguagens e Ferramentas: </h2> 
+<h2 align="center">🪀Linguagens e Ferramentas🪀</h2> 
 
 <div align="center"><br>
 <img align="center" alt="Lillo-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png">
@@ -81,7 +81,7 @@ const sobreMim = {
   </br>
   </br>
 
-<h2>GitHub Statistics:</h2>
+<h2 align="center">🟪Estatísticas do GitHub🟪</h2>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=pt-br" />
@@ -92,7 +92,7 @@ const sobreMim = {
 
 </br>
 
-## Como me contatar:
+<h2 align="center">🔮Como me contatar🔮</h2>
 
 <div align="center"><br>
 
