@@ -81,7 +81,7 @@ const sobreMim = {
   </br>
   </br>
 
-<h2 align="center">🟪Estatísticas do GitHub🟪</h2>
+<h2 align="center">⚛Estatísticas do GitHub⚛</h2>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=pt-br" />
