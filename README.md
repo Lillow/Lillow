@@ -29,7 +29,7 @@
 <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Danillo+Silva;I'm+Junior+Full-Stack+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
 <p>
 
-## :space_invader: More about me :space_invader:
+<h2 align="center">👾 More about me 👾</h2>
 
 <img align="right" width="420" height="420" src="https://i.imgur.com/sgQqwqS.gif" />	
 	
@@ -59,7 +59,7 @@ const aboutMe = {
  ```
 </br>
 
-## Languages and frameworks:
+<h2 align="center">🪀Languages and frameworks🪀</h2>
 
 <div align="center"><br>
 <img align="center" alt="Lillo-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png">
@@ -82,7 +82,7 @@ const aboutMe = {
   </br>
   </br>
   
-## GitHub Statistics:
+<h2 align="center">🟪GitHub Statistics🟪</h2>
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
@@ -94,7 +94,7 @@ const aboutMe = {
 
 </br>
 
-## How to contact me:
+<h2 align="center">🔮How to contact me🔮</h2>
 
 <div align="center"><br>
 	
