@@ -99,7 +99,7 @@ const sobreMim = {
 </a>
 </br>
 <a href="https://lillow.github.io/portfolio/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=ABRIR+PORTFOLIO&color=7E3ACE&style=for-the-badge" />
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </div>
 </br></br>
