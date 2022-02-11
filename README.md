@@ -94,6 +94,18 @@ const aboutMe = {
 
 </br>
 
+<h2 align="center">💜My personal portfolio💜</h2>
+<div align="center">
+<a href="https://github.com/Lillow/portfolio">
+    <img align"center" alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Lillow&repo=portfolio&theme=midnight-purple&hide_border=true">
+</a>
+</br>
+<a href="https://lillow.github.io/portfolio/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</div>
+</br></br>
+
 <h2 align="center">🔮How to contact me🔮</h2>
 
 <div align="center"><br>
