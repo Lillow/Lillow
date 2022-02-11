@@ -82,7 +82,7 @@ const aboutMe = {
   </br>
   </br>
   
-<h2 align="center">🟪GitHub Statistics🟪</h2>
+<h2 align="center">⚛GitHub Statistics⚛</h2>
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
