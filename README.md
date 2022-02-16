@@ -86,6 +86,7 @@ const aboutMe = {
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
+	  <a href="https://github.com/Lillow">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=en" />
 	</br>
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
@@ -118,3 +119,5 @@ const aboutMe = {
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back to top-67285e??style=flat&logo"></a></p>
+
+![Snake animation](https://github.com/Lillow/Lillow/blob/output/github-contribution-grid-snake.svg)
