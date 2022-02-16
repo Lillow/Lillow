@@ -119,5 +119,3 @@ const aboutMe = {
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back to top-67285e??style=flat&logo"></a></p>
-
-![Snake animation](https://github.com/Lillow/Lillow/blob/output/github-contribution-grid-snake.svg)
