@@ -34,7 +34,7 @@
 
 <div>
    
-   <img align="right" width="430" height="395.7" src="https://i.imgur.com/sgQqwqS.gif" />
+   <img align="right" width="440" height="395.7" src="https://i.imgur.com/sgQqwqS.gif" />
 
 
    ```javascript
