@@ -21,6 +21,7 @@
   <img 
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
+	
   <br />
   Welcome to my Profile!!!
 </h1>
@@ -31,7 +32,8 @@
 
 <h2 align="center">👾 More about me 👾</h2>
 
-<img align="right" width="360" height="420" src="https://i.imgur.com/sgQqwqS.gif" />	
+<img align="right" width="360" height="420" src="https://i.imgur.com/sgQqwqS.gif" 
+     style="border: 12px solid black"/>	
 	
 ```javascript
  
