@@ -31,7 +31,7 @@
 
 <h2 align="center">👾 More about me 👾</h2>
 
-<img align="right" width="410" height="420" src="https://i.imgur.com/sgQqwqS.gif" />	
+<img align="right" width="400" height="420" src="https://i.imgur.com/sgQqwqS.gif" />	
 	
 ```javascript
  
