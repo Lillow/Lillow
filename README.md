@@ -27,38 +27,42 @@
 </h1>
 
 <p align=center>
-<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Danillo+Silva;I'm+Junior+Full-Stack+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
+  <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Danillo+Silva;I'm+Junior+Full-Stack+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
 <p>
 
 <h2 align="center">👾 More about me 👾</h2>
 
-<img align="right" width="420" height="420" src="https://i.imgur.com/sgQqwqS.gif" 
-     style="border: 12px solid black"/>	
-	
-```javascript
+<div>
+   
+   <img align="right" width="520" height="420" src="https://i.imgur.com/sgQqwqS.gif" />
+
+
+   ```javascript
  
-const aboutMe = {
-  user: "Danillo Silva",
-  pronouns: "He" | "His",
-  function: "full-stack",
-  current_education: "UNINABUCO",
-  hobbies: [
-  "Studying",
-  "Watching (animes, series and movies)",
-  "Electronic games",
-  "To stay up all night chasing that ONE '; '!..." ]
- }
+   const aboutMe = {
+   user: "Danillo Silva",
+   pronouns: "He" | "His",
+   function: "full-stack",
+   current_education: "UNINABUCO",
+   hobbies: [
+   "Studying",
+   "Watching (animes, series and movies)",
+   "Electronic games",
+   "To stay up all night chasing that ONE '; '!..." ]
+   }
  
- function getCurrentCity() {
-	return Paulista-PE_Brazil
-  }
+   function getCurrentCity() {
+	return Recife-PE_Brazil
+   }
   
-  function Ambitions() {
+   function Ambitions() {
 	findOutWhy42IsTheAnswerToEverything()
 	preventSkyNetCreation()
 	becomeImmortal()
 	}
- ```
+  ```
+</div>
+
 </br>
 
 <h2 align="center">🪀Languages and frameworks🪀</h2>
