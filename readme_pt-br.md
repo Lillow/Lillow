@@ -28,7 +28,7 @@
 <h2 align="center">👾 Mais sobre mim 👾</h2>
 
 <div>
-<img align="right" width="420" height="420" src="https://i.imgur.com/sgQqwqS.gif" />
+<img align="right" width="400.8" height="465" src="https://i.imgur.com/sgQqwqS.gif" />
 
 
 ```javascript
@@ -46,7 +46,7 @@ const sobreMim = {
  }
  
  function getCidadeAtual() {
-	return Paulista-PE_Brasil
+	return Recife-PE_Brasil
   }
   
   function Ambições() {
