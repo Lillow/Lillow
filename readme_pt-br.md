@@ -95,11 +95,11 @@ const sobreMim = {
 <h2 align="center">💜Meu Portfólio Pessoal💜</h2>
 <div align="center">
 <a href="https://github.com/Lillow/portfolio">
-    <img align"center" alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Lillow&repo=portfolio&theme=midnight-purple&hide_border=true">
+    <img align"center" alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Lillow&repo=portfolio&bg_color=0e091b&title_color=fafafa&text_color=bebebe&hide_border=true&show_icons=true&icon_color=6f44b6&locale=en">
 </a>
 </br>
 <a href="https://lillow.github.io/portfolio/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </div>
 </br></br>
