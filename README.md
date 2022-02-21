@@ -32,7 +32,7 @@
 
 <h2 align="center">👾 More about me 👾</h2>
 
-<img align="right" width="360" height="420" src="https://i.imgur.com/sgQqwqS.gif" 
+<img align="right" width="420" height="420" src="https://i.imgur.com/sgQqwqS.gif" 
      style="border: 12px solid black"/>	
 	
 ```javascript
