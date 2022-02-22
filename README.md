@@ -68,18 +68,18 @@
 <h2 align="center">🪀Languages and frameworks🪀</h2>
 
 <div align="center"><br>
-<img align="center" alt="Lillo-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png">
+<img align="center" alt="Lillo-javascript" width="60" height="60" src="https://i.imgur.com/yYs9AbD.png">
 <!-- <img align="center" alt="Lillo-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
-<img align="center" alt="Lillo-html" height="60" width="60" src="https://i.imgur.com/meokl5Y.png">
-<img align="center" alt="Lillo-css" height="60" width="60" src="https://i.imgur.com/ku8Fufv.png">
-<img align="center" alt="Lillo-bootstrap" height="60" width="60" src="https://i.imgur.com/ZeX4O69.png"/>
-<img align="center" alt="Lillo-react" height="60" width="60" src="https://i.imgur.com/D33dVDi.png" />
-<img align="center" alt="Lillo-angular" height="60" width="60" src="https://i.imgur.com/VwWLPog.png" />
+<img align="center" alt="Lillo-html" width="60" height="60" src="https://i.imgur.com/meokl5Y.png">
+<img align="center" alt="Lillo-css" width="60" height="60" src="https://i.imgur.com/ku8Fufv.png">
+<img align="center" alt="Lillo-bootstrap" width="60" height="60" src="https://i.imgur.com/ZeX4O69.png"/>
+<img align="center" alt="Lillo-react"  width="60" height="60" src="https://i.imgur.com/D33dVDi.png" />
+<img align="center" alt="Lillo-angular" width="60" height="60" src="https://i.imgur.com/VwWLPog.png" />
 
 
   <!--   <img align="center" alt="Lillo-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="center" alt="Lillo-java" height="60" width="60" src="https://i.imgur.com/QsBzocU.png" />
-  <img align="center" alt="Lillo-spring" height="60" width="60" src="https://i.imgur.com/R6UPprG.png"/>
+  <img align="center" alt="Lillo-java" width="60" height="60" src="https://i.imgur.com/QsBzocU.png" />
+  <img align="center" alt="Lillo-spring" width="60" height="60" src="https://i.imgur.com/R6UPprG.png"/>
 <!--   <img align="center" alt="Lillo-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Lillo-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Lillo-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
@@ -96,6 +96,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=en" />
 	</br>
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
+	<img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&date_format=M%20j%5B%2C%20Y%5D&background=350066&border=350066&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=FF13FE&currStreakLabel=B500FF" />
+    
   </div>
 </div>
 
