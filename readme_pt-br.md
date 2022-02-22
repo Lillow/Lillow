@@ -61,7 +61,7 @@ const sobreMim = {
 <h2 align="center">🪀Linguagens e Ferramentas🪀</h2> 
 
 <div align="center"><br>
-<img align="center" alt="Lillo-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></a><img align="center" alt="Lillo-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png">
 <!-- <img align="center" alt="Lillo-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
 <img align="center" alt="Lillo-html" height="60" width="60" src="https://i.imgur.com/meokl5Y.png">
 <img align="center" alt="Lillo-css" height="60" width="60" src="https://i.imgur.com/ku8Fufv.png">
