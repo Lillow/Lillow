@@ -68,7 +68,7 @@
 <h2 align="center">🪀Languages and frameworks🪀</h2>
 
 <div align="center"><br>
-<img align="center" alt="Lillo-javascript" width="60" height="60" src="https://i.imgur.com/yYs9AbD.png">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Lillo-javascript" width="60" height="60" src="https://i.imgur.com/yYs9AbD.png"></a>
 <!-- <img align="center" alt="Lillo-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
 <img align="center" alt="Lillo-html" width="60" height="60" src="https://i.imgur.com/meokl5Y.png">
 <img align="center" alt="Lillo-css" width="60" height="60" src="https://i.imgur.com/ku8Fufv.png">
