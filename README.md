@@ -95,8 +95,8 @@
 	  <a href="https://github.com/Lillow">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=en" />
 	</br>
-    <img align="start" width="412" src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
-    <img align="end" width="412" src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=350066&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=FF13FE&currStreakLabel=B500FF" />
+    <img align="start" width="417" src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
+    <img align="end" width="417" src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=350066&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=FF13FE&currStreakLabel=B500FF" />
   </div>
 </div>
 
