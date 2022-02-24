@@ -27,7 +27,7 @@
    <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
 <p>
 
-<h2 align="center">👾 Mais sobre mim 👾</h2>
+<h2 align="center"><img width="42" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> Mais sobre mim <img width="42" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 
 <div>
 <img align="right" width="400.8" height="465" src="https://i.imgur.com/sgQqwqS.gif" />
