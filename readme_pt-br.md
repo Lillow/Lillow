@@ -100,7 +100,7 @@ const sobreMim = {
 
 </br>
 
-<h2 align="center">💜Meu Portfólio Pessoal💜</h2>
+<h2 align="center"><img width="24" alt="ícons-código" src="https://i.imgur.com/gR59tIo.png"> Meu Portfólio Pessoal <img width="24" alt="ícons-código" src="https://i.imgur.com/gR59tIo.png"></h2>
 <div align="center">
 <a href="https://github.com/Lillow/portfolio">
     <img align"center" alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Lillow&repo=portfolio&bg_color=0e091b&title_color=fafafa&text_color=bebebe&hide_border=true&show_icons=true&icon_color=6f44b6&locale=en">
@@ -112,7 +112,7 @@ const sobreMim = {
 </div>
 </br></br>
 
-<h2 align="center"><img width="24" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"> Como me contatar <img width="24" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"></h2>
+<h2 align="center"><img width="24" alt="ícone-telefone" src="https://i.imgur.com/3KdhkRT.png"> Como me contatar <img width="24" alt="ícone-telefone" src="https://i.imgur.com/3KdhkRT.png"></h2>
 
 <div align="center"><br>
 
