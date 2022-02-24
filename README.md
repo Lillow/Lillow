@@ -88,7 +88,7 @@
   </br>
   </br>
   
-<h2 align="center">⚛Github stats⚛</h2>
+<h2 align="center"><img width="30" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Github stats <img width="30" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
 </br>
 
