@@ -121,7 +121,7 @@
 </div>
 </br></br>
 
-<h2 align="center">🔮How to contact me🔮</h2>
+<h2 align="center"><img width="24" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"> How to contact me <img width="24" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"></h2>
 
 <div align="center"><br>
 	
