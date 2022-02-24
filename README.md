@@ -14,9 +14,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lillow.Lillow)
 
-  
- 
-
 <h1 align="center">
   Hello World!
   <img 
@@ -37,31 +34,31 @@
    
    <img align="right" width="442.2px" height="395.7px" src="https://i.imgur.com/sgQqwqS.gif" />
 
+```javascript
+const aboutMe = {
+  user: "Danillo Silva",
+  pronouns: "He" | "His",
+  function: "full-stack",
+  current_education: "UNINABUCO",
+  hobbies: [
+    "Studying",
+    "Watching (animes, series and movies)",
+    "Electronic games",
+    "To stay up all night chasing that ONE '; '!...",
+  ],
+};
 
-   ```javascript
- 
-   const aboutMe = {
-   user: "Danillo Silva",
-   pronouns: "He" | "His",
-   function: "full-stack",
-   current_education: "UNINABUCO",
-   hobbies: [
-   "Studying",
-   "Watching (animes, series and movies)",
-   "Electronic games",
-   "To stay up all night chasing that ONE '; '!..." ]
-   }
- 
-   function getCurrentCity() {
-	return Recife-PE_Brazil
-   }
-  
-   function Ambitions() {
-	findOutWhy42IsTheAnswerToEverything()
-	preventSkyNetCreation()
-	becomeImmortal()
-	}
-  ```
+function getCurrentCity() {
+  return Recife - PE_Brazil;
+}
+
+function Ambitions() {
+  findOutWhy42IsTheAnswerToEverything();
+  preventSkyNetCreation();
+  becomeImmortal();
+}
+```
+
 </div>
 
 </br>

@@ -34,35 +34,35 @@
 <div>
 <img align="right" width="400.8px" height="465px" src="https://i.imgur.com/sgQqwqS.gif" />
 
-
 ```javascript
- 
 const sobreMim = {
   usuario: "Danillo Silva",
   pronomes: "Ele" | "Dele",
   função: "full-stack",
   educação_atual: "UNINABUCO",
   hobbies: [
-  "Estudar",
-  "Assistir (animes, séries e filmes)",
-  "Jogos eletrônicos",
-  "Ficar acordado a noite toda perseguindo aquele ÚNICO  ' ; ' ! ... " ]
- }
- 
- function getCidadeAtual() {
-	return Recife-PE_Brasil
-  }
-  
-  function Ambições() {
-	descobrirPorque42ÉrespostaParaTudo()
-	impedirCriaçãoDaSkyNet()
-	meTornarImortal()
-	}
+    "Estudar",
+    "Assistir (animes, séries e filmes)",
+    "Jogos eletrônicos",
+    "Ficar acordado a noite toda perseguindo aquele ÚNICO  ' ; ' ! ... ",
+  ],
+};
+
+function getCidadeAtual() {
+  return Recife - PE_Brasil;
+}
+
+function Ambições() {
+  descobrirPorque42ÉrespostaParaTudo();
+  impedirCriaçãoDaSkyNet();
+  meTornarImortal();
+}
 ```
+
 </div>
 </br>
 
-<h2 align="center"><img width="30px" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"> Linguagens e Ferramentas <img width="30px" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"></h2> 
+<h2 align="center"><img width="30px" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"> Linguagens e Ferramentas <img width="30px" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"></h2>
 
 <div align="center"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img align="center" alt="Lillow-javascript" height="60px" width="60px" src="https://i.imgur.com/yYs9AbD.png"></a>
@@ -120,10 +120,10 @@ const sobreMim = {
 
 <div align="center"><br>
 
-  <a href="https://www.instagram.com/danillordm19/" rel = "noopener"><img alt="Lillo-instagram" src="https://img.shields.io/badge/Instagram-A215A2?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:danillordm@gmail.com"><img alt="Lillo-gmail" src="https://img.shields.io/badge/-Gmail-350066?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/danillo-silva-b861a393/"><img alt="Lillo-linkediin" src="https://img.shields.io/badge/-LinkedIn-A215A2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://codepen.io/lillo42/pens/public"><img alt="Lillo-codepen" src="https://img.shields.io/badge/Codepen-350066?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
+<a href="https://www.instagram.com/danillordm19/" rel = "noopener"><img alt="Lillo-instagram" src="https://img.shields.io/badge/Instagram-A215A2?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:danillordm@gmail.com"><img alt="Lillo-gmail" src="https://img.shields.io/badge/-Gmail-350066?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/danillo-silva-b861a393/"><img alt="Lillo-linkediin" src="https://img.shields.io/badge/-LinkedIn-A215A2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://codepen.io/lillo42/pens/public"><img alt="Lillo-codepen" src="https://img.shields.io/badge/Codepen-350066?style=for-the-badge&logo=codepen&logoColor=white%22%20/%3E](https://codepen.io/thicode"></a>
 
 </div>
 
