@@ -88,7 +88,7 @@
   </br>
   </br>
   
-<h2 align="center">⚛GitHub Statistics⚛</h2>
+<h2 align="center">⚛Github stats⚛</h2>
 
 </br>
 
