@@ -112,7 +112,7 @@ const sobreMim = {
 </div>
 </br></br>
 
-<h2 align="center">🔮Como me contatar🔮</h2>
+<h2 align="center"><img width="24" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"> Como me contatar <img width="24" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"></h2>
 
 <div align="center"><br>
 
