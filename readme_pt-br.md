@@ -83,7 +83,11 @@ const sobreMim = {
   </br>
 
 <h2 align="center">⚛Estatísticas do GitHub⚛</h2>
-<div align="center">
+
+<details> 
+  <summary align="center">💻 Estatísticas do perfil do GitHub</summary>
+  <br/>
+	<div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=350066&title_color=901490&text_color=f8c9f8&hide_border=true&locale=pt-br" />
 	</br>
@@ -91,6 +95,8 @@ const sobreMim = {
     <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=j%20M%5B%20Y%5D&background=350066&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
   </div>
 </div>
+   
+</details>
 
 </br>
 
