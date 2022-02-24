@@ -85,7 +85,7 @@ const sobreMim = {
 <h2 align="center">⚛Estatísticas do GitHub⚛</h2>
 
 <details> 
-  <summary align="center">💻 Estatísticas do perfil do GitHub</summary>
+  <summary align="center">🟣 Estatísticas do perfil do GitHub</summary>
   <br/>
 	<div align="center">
   <div style="display: flex; align-items: flex-start;">
