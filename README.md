@@ -31,7 +31,7 @@
   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Danillo+Silva;I'm+Junior+Full-Stack+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
 <p>
 
-<h2 align="center">👾 More about me 👾</h2>
+<h2 align="center"><img width="42" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> More about me <img width="42" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 
 <div>
    
@@ -66,7 +66,7 @@
 
 </br>
 
-<h2 align="center">🪀Languages and frameworks🪀</h2>
+<h2 align="center"><img width="30" alt="ícone-pc-código" src="https://i.imgur.com/IFuOOOc.png"> Languages and frameworks <img width="30" alt="ícone-pc-código" src="https://i.imgur.com/IFuOOOc.png"></h2>
 
 <div align="center"><br>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img align="center" alt="Lillo-javascript" width="60" height="60" src="https://i.imgur.com/yYs9AbD.png"></a>
