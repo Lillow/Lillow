@@ -60,7 +60,7 @@ const sobreMim = {
 </div>
 </br>
 
-<h2 align="center">🪀Linguagens e Ferramentas🪀</h2> 
+<h2 align="center"><img width="30" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"> Linguagens e Ferramentas <img width="30" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"></h2> 
 
 <div align="center"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img align="center" alt="Lillow-javascript" height="60" width="60" src="https://i.imgur.com/yYs9AbD.png"></a>
