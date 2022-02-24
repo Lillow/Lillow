@@ -93,7 +93,7 @@
 </br>
 
 <details> 
-  <summary align="center">💻 GitHub Profile Stats</summary>
+  <summary align="center">🟣 GitHub Profile Stats</summary>
   <br/>
 	<div align="center">
   <div style="display: flex; align-items: flex-start;">
