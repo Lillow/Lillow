@@ -32,7 +32,7 @@
 
 <div>
    
-   <img align="right" width="442.2px" height="395.7px" src="https://i.imgur.com/sgQqwqS.gif" />
+   <img align="right" width="442.2px" height="400.7px" src="https://i.imgur.com/sgQqwqS.gif" />
 
 ```javascript
 const aboutMe = {
