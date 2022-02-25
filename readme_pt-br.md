@@ -32,7 +32,7 @@
 </div>
 	
 <div>
-<img align="right" width="400.8px" height="465px" src="https://i.imgur.com/sgQqwqS.gif" />
+<img align="right" width="392.9px" height="466px" src="https://i.imgur.com/sgQqwqS.gif" />
 
 ```javascript
 const sobreMim = {
