@@ -39,7 +39,7 @@ const aboutMe = {
   user: "Danillo Silva",
   pronouns: "He" | "His",
   function: "full-stack",
-  current_education: "UNINABUCO",
+  current_education: "Estácio",
   hobbies: [
     "Studying",
     "Watching (animes, series and movies)",
