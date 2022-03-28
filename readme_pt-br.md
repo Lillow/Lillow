@@ -39,7 +39,7 @@ const sobreMim = {
   usuario: "Danillo Silva",
   pronomes: "Ele" | "Dele",
   função: "full-stack",
-  educação_atual: "UNINABUCO",
+  educação_atual: "Estácio",
   hobbies: [
     "Estudar",
     "Assistir (animes, séries e filmes)",
