@@ -90,7 +90,7 @@ function Ambitions() {
 </br>
 
 <details> 
-  <summary align="center">🟣 GitHub Profile Stats</summary>
+  <summary align="center">🟣 GitHub Profile Stats (click here to see more)</summary>
   <br/>
 	<div align="center">
   <div style="display: flex; align-items: flex-start;">
