@@ -87,7 +87,7 @@ function Ambições() {
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Estatísticas do GitHub <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
 <details> 
-  <summary align="center">🟣 Estatísticas do perfil do GitHub</summary>
+  <summary align="center">🟣 Estatísticas do perfil do GitHub (clique aqui para ver mais)</summary>
   <br/>
 	<div align="center">
   <div style="display: flex; align-items: flex-start;">
