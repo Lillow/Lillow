@@ -31,8 +31,9 @@
 <h2 ><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> Mais sobre mim <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 </div>
 	
-<div>
-<img align="right" width="392.9px" height="466px" src="https://i.imgur.com/sgQqwqS.gif" />
+<div align="center">
+	<img width="999px" height="411.9px" src="https://i.imgur.com/sgQqwqS.gif" />
+</div>
 
 ```javascript
 const sobreMim = {
@@ -44,7 +45,7 @@ const sobreMim = {
     "Estudar",
     "Assistir (animes, séries e filmes)",
     "Jogos eletrônicos",
-    "Ficar acordado a noite toda perseguindo aquele ÚNICO  ' ; ' ! ... ",
+    "Ficar acordado a noite toda perseguindo aquele ÚNICO PONTO E VÍRGULA!",
   ],
 };
 
@@ -59,7 +60,6 @@ function Ambições() {
 }
 ```
 
-</div>
 </br>
 
 <h2 align="center"><img width="30px" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"> Linguagens e Ferramentas <img width="30px" alt="icon-pc-code" src="https://i.imgur.com/IFuOOOc.png"></h2>
