@@ -32,7 +32,7 @@
 </div>
 	
 <div align="center">
-	<img width="999px" height="411.9px" src="https://i.imgur.com/sgQqwqS.gif" />
+	<img width="999px" height="495px" src="https://i.imgur.com/sgQqwqS.gif" />
 </div>
 
 ```javascript
