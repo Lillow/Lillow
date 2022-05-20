@@ -30,9 +30,11 @@
 
 <h2 align="center"><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> More about me <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 
-<div>
+
+ <div align="center">
+	<img width="999px" height="411.9px" src="https://i.imgur.com/sgQqwqS.gif" />
+</div>
    
-   <img align="right" width="422.9px" height="411.9px" src="https://i.imgur.com/sgQqwqS.gif" />
 
 ```javascript
 const aboutMe = {
@@ -44,7 +46,7 @@ const aboutMe = {
     "Studying",
     "Watching (animes, series and movies)",
     "Electronic games",
-    "To stay up all night chasing that ONE '; '!...",
+    "To stay up all night chasing that ONE ';'!!!",
   ],
 };
 
@@ -59,7 +61,7 @@ function Ambitions() {
 }
 ```
 
-</div>
+
 
 </br>
 
