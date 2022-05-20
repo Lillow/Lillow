@@ -46,7 +46,7 @@ const aboutMe = {
     "Studying",
     "Watching (animes, series and movies)",
     "Electronic games",
-    "To stay up all night chasing that ONE ';'!!!",
+    "To stay up all night chasing that ONE SEMICOLON!",
   ],
 };
 
