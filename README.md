@@ -92,13 +92,13 @@ function Ambitions() {
 <details> 
   <summary align="center">🟣 GitHub Profile Stats (click here to see more)</summary>
   <br/>
-	<div align="center">
+<div align="center">
   <div style="display: flex; align-items: flex-start;">
 	  <a href="https://github.com/Lillow">
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=1D0038&title_color=901490&text_color=f8c9f8&hide_border=true&locale=en" />
 	</br>
-    <img align="start" width="412.5px" src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=1D0038&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
-    <img align="end" width="412.5px" src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D0038&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
+    <img align="start" width="500px" src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=1D0038&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=en" />
+    <img align="end" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D0038&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
   </div>
 </div>   
 </details>
