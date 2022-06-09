@@ -29,8 +29,8 @@
 <h2 align="center"><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> More about me <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 
 
- <div align="center">
-	<img width="999px" height="495px" src="https://i.imgur.com/sgQqwqS.gif" />
+<div align="center">
+  <img height="490px" src="https://i.imgur.com/sgQqwqS.gif" />
 </div>
    
 
