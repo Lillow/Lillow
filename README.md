@@ -16,7 +16,7 @@
 
 <h1 align="center">
   Hello World!
-  <img width="30px" height="30px" src="https://i.imgur.com/XJeHgO4.gif" >
+  <img height="30px" src="https://i.imgur.com/XJeHgO4.gif" >
 	
   <br />
   Welcome to my Profile!!!
