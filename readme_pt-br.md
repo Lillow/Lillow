@@ -16,7 +16,7 @@
 
 <h1 align="center">
   Olá mundo!
-  <img width="30px" height="30px" src="https://i.imgur.com/XJeHgO4.gif">
+  <img height="30px" src="https://i.imgur.com/XJeHgO4.gif">
   <br />
   Bem-vindos ao meu perfil!!!
 </h1>
@@ -30,7 +30,7 @@
 </div>
 	
 <div align="center">
-	<img width="999px" height="495px" src="https://i.imgur.com/sgQqwqS.gif" />
+	<img src="https://i.imgur.com/sgQqwqS.gif" />
 </div>
 
 ```javascript
@@ -92,8 +92,8 @@ function Ambições() {
 	  <a href="https://github.com/Lillow">
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillow&bg_color=1D0038&title_color=901490&text_color=f8c9f8&hide_border=true&locale=pt-br" />
 	</br>
-    <img align="start" width="412.5px" src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=1D0038&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=pt-br" />
-    <img align="end" width="412.5px" src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D0038&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
+    <img align="start" width="503px" src="https://github-readme-stats.vercel.app/api?username=Lillow&bg_color=1D0038&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=pt-br" />
+    <img align="end" width="503px" src="http://github-readme-streak-stats.herokuapp.com?user=Lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D0038&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
   </div>
 </div>   
 </details>
