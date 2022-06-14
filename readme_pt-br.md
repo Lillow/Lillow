@@ -26,7 +26,7 @@
 <p>
 
 <div align="center">	
-<h2 ><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> Mais sobre mim <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
+<h2 ><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> Sobre mim <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 </div>
 	
 <div align="center">
