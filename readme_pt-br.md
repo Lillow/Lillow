@@ -29,9 +29,9 @@
 <h2 ><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> Sobre mim <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 </div>
 	
-<div align="center">
+<!-- <div align="center">
 	<img src="https://i.imgur.com/sgQqwqS.gif" />
-</div>
+</div> -->
 
 ```javascript
 const sobreMim = {
