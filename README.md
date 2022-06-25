@@ -29,9 +29,9 @@
 <h2 align="center"><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> About me <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
 
 
-<div align="center">
+<!-- <div align="center">
   <img height="463px" src="https://i.imgur.com/sgQqwqS.gif" />
-</div>
+</div> -->
    
 
 ```javascript
