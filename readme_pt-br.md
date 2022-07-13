@@ -68,7 +68,7 @@ function Ambições() {
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML"><img align="center" alt="Lillo-html" height="60px" width="60px" src="https://i.imgur.com/meokl5Y.png"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS"><img align="center" alt="Lillo-css" height="60px" width="60px" src="https://i.imgur.com/ku8Fufv.png"></a>
 <!--     <a href="https://getbootstrap.com.br/docs/4.1/getting-started/introduction/"><img align="center" alt="Lillo-bootstrap" height="60px" width="60px" src="https://i.imgur.com/ZeX4O69.png"/></a> -->
-<!--     <a href="https://pt-br.reactjs.org/"><img align="center" alt="Lillo-react" height="60px" width="60px" src="https://i.imgur.com/D33dVDi.png" /></a> -->
+     <a href="https://pt-br.reactjs.org/"><img align="center" alt="Lillo-react" height="60px" width="60px" src="https://i.imgur.com/D33dVDi.png" /></a>
 <!--     <a href="https://blog.algaworks.com/o-que-e-angular/"><img align="center" alt="Lillo-angular" height="60px" width="60px" src="https://i.imgur.com/VwWLPog.png" /></a> -->
     <a href="https://www.java.com/pt-BR/download/help/whatis_java.html"><img align="center" alt="Lillo-java" height="60px" width="60px" src="https://i.imgur.com/QsBzocU.png" /></a>
 <!--     <a href="https://www.devmedia.com.br/exemplo/como-comecar-com-spring/73"><img align="center" alt="Lillo-spring" height="60px" width="60px" src="https://i.imgur.com/R6UPprG.png" /></a> -->
