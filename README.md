@@ -71,7 +71,7 @@ function Ambitions() {
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"><img align="center" alt="Lillo-html" width="60px" height="60px" src="https://i.imgur.com/meokl5Y.png"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img align="center" alt="Lillo-css" width="60px" height="60px" src="https://i.imgur.com/ku8Fufv.png"></a>
 <!--     <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/"><img align="center" alt="Lillo-bootstrap" width="60px" height="60px" src="https://i.imgur.com/ZeX4O69.png"/></a> -->
-<!--     <a href="https://reactjs.org/"><img align="center" alt="Lillo-react"  width="60px" height="60px" src="https://i.imgur.com/D33dVDi.png" /></a> -->
+    	<a href="https://reactjs.org/"><img align="center" alt="Lillo-react"  width="60px" height="60px" src="https://i.imgur.com/D33dVDi.png" /></a> 
 <!--     <a href="https://angular.io/docs"><img align="center" alt="Lillo-angular" width="60px" height="60px" src="https://i.imgur.com/VwWLPog.png" /></a> -->
     <a href="https://www.java.com/en/download/help/whatis_java.html"><img align="center" alt="Lillo-java" width="60px" height="60px" src="https://i.imgur.com/QsBzocU.png" /></a>
 <!--     <a href="https://spring.io/why-spring"><img align="center" alt="Lillo-spring" width="60" height="60" src="https://i.imgur.com/R6UPprG.png"/></a> -->
