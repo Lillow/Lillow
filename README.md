@@ -59,8 +59,6 @@ function Ambitions() {
 }
 ```
 
-
-
 </br>
 
 <h2 align="center"><img width="30px" alt="ícone-pc-código" src="https://i.imgur.com/IFuOOOc.png"> Languages and frameworks <img width="30" alt="ícone-pc-código" src="https://i.imgur.com/IFuOOOc.png"></h2>
@@ -82,8 +80,7 @@ function Ambitions() {
   <img align="center" alt="Lillo-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
 </div>
 
-  </br>
-  </br>
+  </br></br>
   
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Github stats <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
@@ -117,6 +114,7 @@ function Ambitions() {
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </div>
+
 </br></br>
 
 <h2 align="center"><img width="24px" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"> How to contact me <img width="24px" alt="icons-telephone" src="https://i.imgur.com/3KdhkRT.png"></h2>
