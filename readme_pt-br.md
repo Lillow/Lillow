@@ -79,8 +79,7 @@ function Ambições() {
   <img align="center" alt="Lillo-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
 </div>
 
-  </br>
-  </br>
+  </br></br>
 
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Estatísticas do GitHub <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
@@ -112,6 +111,7 @@ function Ambições() {
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </div>
+
 </br></br>
 
 <h2 align="center"><img width="24px" alt="ícone-telefone" src="https://i.imgur.com/3KdhkRT.png"> Como me contatar <img width="24px" alt="ícone-telefone" src="https://i.imgur.com/3KdhkRT.png"></h2>
