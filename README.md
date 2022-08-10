@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>
-      <a href="readme_pt-br.md">&#127463;&#127479; Portuguese | Português</a>
+      <a href="readme_pt-br.md">&#x1f1e7;&#x1f1f7; Portuguese | Português</a>
     </td>
   </tr>
 </table>
