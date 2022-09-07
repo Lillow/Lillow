@@ -107,11 +107,11 @@ function Ambitions() {
 <h2 align="center"><img width="24px" alt="icons-code" src="https://i.imgur.com/gR59tIo.png"> My personal portfolio <img width="24px" alt="icons-code" src="https://i.imgur.com/gR59tIo.png"></h2>
 <div align="center">
 <a href="https://lillow.github.io/my-portfolio/">
-    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Lillow&repo=portfolio&bg_color=0e091b&title_color=fafafa&text_color=bebebe&hide_border=true&show_icons=true&icon_color=6f44b6&locale=en">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Lillow&repo=portfolio&bg_color=391a60&title_color=fafafa&text_color=bebebe&hide_border=true&show_icons=true&icon_color=6f44b6&locale=en">
 </a>
 </br>
 <a href="https://lillow.github.io/my-portfolio/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=576575&style=for-the-badge" />
 </a>
 </div>
 
