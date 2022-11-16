@@ -64,9 +64,9 @@ function Ambitions() {
 <h2 align="center"><img width="30px" alt="ícone-pc-código" src="https://i.imgur.com/IFuOOOc.png"> Languages and frameworks <img width="30" alt="ícone-pc-código" src="https://i.imgur.com/IFuOOOc.png"></h2>
 
 <div align="center"><br>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"><img align="center" alt="Lillo-html" width="60px" height="60px" src="https://i.imgur.com/ku8Fufv.png"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img align="center" alt="Lillo-css" width="60px" height="60px" src="https://i.imgur.com/meokl5Y.png"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img align="center" alt="Lillo-javascript" width="60px" height="60px" src="https://i.imgur.com/yYs9AbD.png"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"><img align="center" alt="Lillo-html" width="60px" height="60px" src="https://i.imgur.com/meokl5Y.png"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img align="center" alt="Lillo-css" width="60px" height="60px" src="https://i.imgur.com/ku8Fufv.png"></a>
     <a href="https://reactjs.org/"><img align="center" alt="Lillo-react"  width="60px" height="60px" src="https://i.imgur.com/D33dVDi.png" /></a> 
     <a href="https://www.java.com/en/download/help/whatis_java.html"><img align="center" alt="Lillo-java" width="60px" height="60px" src="https://i.imgur.com/QsBzocU.png" /></a>
     <a href="https://dev.mysql.com/doc/"><img align="center" alt="Lillo-mysql" height="60px" width="60px" src="https://i.imgur.com/kBSi374.png"></a>
