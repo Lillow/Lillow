@@ -90,7 +90,7 @@ function Ambitions() {
 </div>   
 </details>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lillow&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true)](https://github.com/Lillow/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lillow&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true)](https://github.com/Lillow/github-readme-activity-graph)
 
 </br>
 
