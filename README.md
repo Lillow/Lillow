@@ -67,10 +67,12 @@ function Ambitions() {
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"><img align="center" alt="Lillo-html" width="60px" height="60px" src="https://i.imgur.com/ku8Fufv.png"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img align="center" alt="Lillo-css" width="60px" height="60px" src="https://i.imgur.com/meokl5Y.png"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img align="center" alt="Lillo-javascript" width="60px" height="60px" src="https://i.imgur.com/yYs9AbD.png"></a>
+    <a href="https://en.wikipedia.org/wiki/Gupta_Technologies"><img align="center" alt="Lillo-centura" height="60px" width="55px" src="https://i.imgur.com/TRXb3lO.png"></a>
     <a href="https://reactjs.org/"><img align="center" alt="Lillo-react"  width="60px" height="60px" src="https://i.imgur.com/D33dVDi.png" /></a> 
     <a href="https://www.java.com/en/download/help/whatis_java.html"><img align="center" alt="Lillo-java" width="60px" height="60px" src="https://i.imgur.com/QsBzocU.png" /></a>
     <a href="https://dev.mysql.com/doc/"><img align="center" alt="Lillo-mysql" height="60px" width="60px" src="https://i.imgur.com/kBSi374.png"></a>
 </div></br>
+
 
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Github stats <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
