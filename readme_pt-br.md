@@ -66,8 +66,8 @@ function Ambições() {
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML"><img align="center" alt="Lillo-html" height="60px" width="60px" src="https://i.imgur.com/ku8Fufv.png"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS"><img align="center" alt="Lillo-css" height="60px" width="60px" src="https://i.imgur.com/meokl5Y.png"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img align="center" alt="lillow-javascript" height="60px" width="60px" src="https://i.imgur.com/yYs9AbD.png"></a>
+<!--     <a href="https://pt-br.reactjs.org/"><img align="center" alt="Lillo-react" height="70px" width="70px" src="https://i.imgur.com/N7KqKt2.png" /></a> -->
     <a href="http://www.batebyte.pr.gov.br/Pagina/Centura"><img align="center" alt="Lillo-centura" height="60px" width="55px" src="https://i.imgur.com/TRXb3lO.png"></a>
-    <a href="https://pt-br.reactjs.org/"><img align="center" alt="Lillo-react" height="70px" width="70px" src="https://i.imgur.com/N7KqKt2.png" /></a>
     <a href="https://www.java.com/pt-BR/download/help/whatis_java.html"><img align="center" alt="Lillo-java" height="65px" width="65px" src="https://i.imgur.com/Z3AZYB3.png" /></a>
     <a href="https://pt.wikipedia.org/wiki/SQL"><img align="center" alt="Lillo-sql" height="60px" width="60px" src="https://i.imgur.com/ySgpxmx.png"></a>
 </div></br>
