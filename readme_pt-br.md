@@ -33,29 +33,62 @@
 	<img src="https://i.imgur.com/sgQqwqS.gif" />
 </div> -->
 
-```javascript
-const sobreMim = {
-  usuario: "Danillo Silva",
-  pronomes: "Ele" | "Dele",
-  função: "full-stack",
-  educação_atual: "Estácio",
-  hobbies: [
-    "Estudar",
-    "Assistir (animes, séries e filmes)",
-    "Jogos eletrônicos",
-    "Ficar acordado a noite toda perseguindo aquele ÚNICO PONTO E VÍRGULA!",
-  ],
-};
+```java
+public class SobreMim {
+	private String nome = "Danillo Silva";
+	private String pronomes = "He | His";
+	private String função = "full-stack";
+	private String educacaoAtual = "Estácio";
+	private String hobbies[] = { 
+			"Academia", 
+			"Aprender coisas novas", 
+			"Ouvir podcast", 
+			"Conversar com amigos", 
+			"Cinema"
 
-function getCidadeAtual() {
-  return Recife - PE_Brasil;
+	};
+
+	public String getCidadeAtual() {
+		return "Recife - Brasil-PE";
+	}
+
+	public void abicoes() {
+		setEducacao("Pós Graduação");
+		setNivelIngles("Fluente");
+		setDesenvolverHabilidades("Liderança, Gestão,  Técnicas");
+		travelAndExploreCultures();
+		alcançarEquilibrioVida("Pessoal e Profissional");
+	}
+
+	private void setEducacao(String planos) {
+		executar(planos);
+	}
+
+	private void setNivelIngles(String planos) {
+		executar(planos);
+	}
+
+	private void setDesenvolverHabilidades(String planos) {
+		executar(planos);
+	}
+
+	private void travelAndExploreCultures() {
+		executar();
+	}
+
+	private void alcançarEquilibrioVida(String planos) {
+		executar(planos);
+	}
+
+	private String executar() {
+		return "Executa os planos";
+	}
+
+	private String executar(String planos) {
+		return "Executa os planos";
+	}
 }
 
-function Ambições() {
-  descobrirPorque42ÉrespostaParaTudo();
-  impedirCriaçãoDaSkyNet();
-  meTornarImortal();
-}
 ```
 
 </br>
