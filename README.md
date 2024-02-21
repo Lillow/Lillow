@@ -34,28 +34,53 @@
 </div> -->
    
 
-```javascript
-const aboutMe = {
-  user: "Danillo Silva",
-  pronouns: "He" | "His",
-  function: "full-stack",
-  current_education: "Estácio",
-  hobbies: [
-    "Studying",
-    "Watching (animes, series and movies)",
-    "Electronic games",
-    "To stay up all night chasing that ONE SEMICOLON!",
-  ],
-};
+```java
+public class AboutMe {
+	private String name = "Danillo Silva";
+	private String pronouns = "He | His";
+	private String function = "full-stack";
+	private String currentEducation = "Estácio";
+	private String hobbies[] = { 
+			"Gym", 
+			"Learn new things", 
+			"Listen podcast", 
+			"Talk with friends", 
+			"Movie theater"
 
-function getCurrentCity() {
-  return Recife - PE_Brazil;
-}
+	};
 
-function Ambitions() {
-  findOutWhy42IsTheAnswerToEverything();
-  preventSkyNetCreation();
-  becomeImmortal();
+	public String getCurrentCity() {
+		return "Recife - Brazil-PE";
+	}
+
+	public void ambitions() {
+		completePostgraduateDegree();
+		becomeFluentInEnglish();
+		developLeadershipSkills();
+		travelAndExploreCultures();
+		achieveLifeBalance();
+	}
+
+	private void completePostgraduateDegree() {
+
+	}
+
+	private void becomeFluentInEnglish() {
+
+	}
+
+	private void developLeadershipSkills() {
+
+	}
+
+	private void travelAndExploreCultures() {
+
+	}
+
+	private void achieveLifeBalance() {
+
+	}
+
 }
 ```
 
