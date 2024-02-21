@@ -56,7 +56,7 @@ public class SobreMim {
 		setEducacao("Pós Graduação");
 		setNivelIngles("Fluente");
 		setDesenvolverHabilidades("Liderança, Gestão,  Técnicas");
-		travelAndExploreCultures();
+		viajarExplorarCulturas();
 		alcançarEquilibrioVida("Pessoal e Profissional");
 	}
 
@@ -72,7 +72,7 @@ public class SobreMim {
 		executar(planos);
 	}
 
-	private void travelAndExploreCultures() {
+	private void viajarExplorarCulturas() {
 		executar();
 	}
 
@@ -107,8 +107,8 @@ public class SobreMim {
 
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Estatísticas do GitHub <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
-<details> 
-  <summary align="center">🟣 Estatísticas do perfil do GitHub (clique aqui para ver mais)</summary>
+<!--<details> 
+  <summary align="center">🟣 Estatísticas do perfil do GitHub (clique aqui para ver mais)</summary>-->
   <br/>
 	<div align="center">
   <div style="display: flex; align-items: flex-start;">
@@ -119,9 +119,9 @@ public class SobreMim {
     <img align="end" width="503px" src="http://github-readme-streak-stats.herokuapp.com?user=lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D0038&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
   </div>
 </div>   
-</details>
+<!--</details>-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lillow&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true&custom_title=Danillo%20Silva%20Gráfico%20de%20Contribuições)](https://github.com/lillow/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lillow&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true&custom_title=Danillo%20Silva%20Gráfico%20de%20Contribuições)](https://github.com/lillow/github-readme-activity-graph)-->
 
 </br>
 
