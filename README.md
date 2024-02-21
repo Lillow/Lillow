@@ -54,31 +54,39 @@ public class AboutMe {
 	}
 
 	public void ambitions() {
-		completePostgraduateDegree();
-		becomeFluentInEnglish();
-		developLeadershipSkills();
+		setEducation("PostGraduate");
+		setEnglishLevel("Fluent");
+		setDevelopSkills("Leadership, Management, Techniques");
 		travelAndExploreCultures();
-		achieveLifeBalance();
+		achieveLifeBalance("Personal and Professional");
 	}
 
-	private void completePostgraduateDegree() {
-
+	private void setEducation(String plans) {
+		toExecute(plans);
 	}
 
-	private void becomeFluentInEnglish() {
-
+	private void setEnglishLevel(String plans) {
+		toExecute(plans);
 	}
 
-	private void developLeadershipSkills() {
-
+	private void setDevelopSkills(String plans) {
+		toExecute(plans);
 	}
 
 	private void travelAndExploreCultures() {
-
+		toExecute();
 	}
 
-	private void achieveLifeBalance() {
+	private void achieveLifeBalance(String plans) {
+		toExecute(plans);
+	}
 
+	private String toExecute() {
+		return "Execute the plans";
+	}
+
+	private String toExecute(String plans) {
+		return "Execute the plans";
 	}
 
 }
