@@ -103,8 +103,8 @@ public class AboutMe {
 
 </br>
 
-<details> 
-  <summary align="center">🟣 GitHub Profile Stats (click here to see more)</summary>
+<!--<details> 
+  <summary align="center">🟣 GitHub Profile Stats (click here to see more)</summary>-->
   <br/>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
@@ -115,9 +115,9 @@ public class AboutMe {
     <img align="end" width="412.5px" src="http://github-readme-streak-stats.herokuapp.com?user=lillow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D0038&currStreakNum=901490&sideNums=901490&sideLabels=F8C9F8&dates=7C6E81E0&stroke=7C6C81&ring=B500FF&fire=F8209A&currStreakLabel=B500FF" />
   </div>
 </div>   
-</details>
+<!--</details>)-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lillow&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true)](https://github.com/lillow/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lillow&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true)](https://github.com/lillow/github-readme-activity-graph-->
 
 </br>
 
