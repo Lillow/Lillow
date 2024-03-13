@@ -22,7 +22,7 @@
 </h1>
 
 <p align=center>
-   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web+Junior;Gosto+de+criar%2C+adaptar+e+reformular"/>
+   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Danillo+Silva;Sou+Desenvolvedor+Full-Stack+Web;Gosto+de+criar%2C+adaptar+e+reformular"/>
 <p>
 
 <div align="center">	
