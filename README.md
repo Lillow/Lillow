@@ -23,7 +23,7 @@
 </h1>
 
 <p align=center>
-  <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Danillo+Silva;I'm+Junior+Full-Stack+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
+  <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Danillo+Silva;I'm+Full-Stack+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
 <p>
 
 <h2 align="center"><img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"> About me <img width="42px" alt="icon-developer" src="https://i.imgur.com/SLWIAVL.png"></h2>
