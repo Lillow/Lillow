@@ -36,15 +36,14 @@
 ```java
 public class SobreMim {
 	private String nome = "Danillo Silva";
-	private String pronomes = "He | His";
-	private String função = "full-stack";
+	private String pronomes = "Ele | Dele";
+	private String função = "Back-end";
 	private String educacaoAtual = "Estácio";
 	private String hobbies[] = { 
 			"Academia", 
-			"Aprender coisas novas", 
-			"Ouvir podcast", 
-			"Conversar com amigos", 
-			"Cinema"
+			"Jogos", 
+			"Codificar", 
+			"Conversar com amigos"
 
 	};
 
@@ -52,40 +51,12 @@ public class SobreMim {
 		return "Recife - Brasil-PE";
 	}
 
-	public void abicoes() {
+	public void ambicoes() {
 		setEducacao("Pós Graduação");
 		setNivelIngles("Fluente");
 		setDesenvolverHabilidades("Liderança, Gestão,  Técnicas");
 		viajarExplorarCulturas();
 		alcançarEquilibrioVida("Pessoal e Profissional");
-	}
-
-	private void setEducacao(String planos) {
-		executar(planos);
-	}
-
-	private void setNivelIngles(String planos) {
-		executar(planos);
-	}
-
-	private void setDesenvolverHabilidades(String planos) {
-		executar(planos);
-	}
-
-	private void viajarExplorarCulturas() {
-		executar();
-	}
-
-	private void alcançarEquilibrioVida(String planos) {
-		executar(planos);
-	}
-
-	private String executar() {
-		return "Executa os planos";
-	}
-
-	private String executar(String planos) {
-		return "Executa os planos";
 	}
 }
 
