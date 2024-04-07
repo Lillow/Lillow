@@ -38,14 +38,13 @@
 public class AboutMe {
 	private String name = "Danillo Silva";
 	private String pronouns = "He | His";
-	private String function = "full-stack";
+	private String function = "Back-end";
 	private String currentEducation = "Estácio";
 	private String hobbies[] = { 
 			"Gym", 
-			"Learn new things", 
-			"Listen podcast", 
-			"Talk with friends", 
-			"Movie theater"
+			"Games", 
+			"Code", 
+			"Going out with friends"
 
 	};
 
@@ -59,34 +58,6 @@ public class AboutMe {
 		setDevelopSkills("Leadership, Management, Techniques");
 		travelAndExploreCultures();
 		achieveLifeBalance("Personal and Professional");
-	}
-
-	private void setEducation(String plans) {
-		toExecute(plans);
-	}
-
-	private void setEnglishLevel(String plans) {
-		toExecute(plans);
-	}
-
-	private void setDevelopSkills(String plans) {
-		toExecute(plans);
-	}
-
-	private void travelAndExploreCultures() {
-		toExecute();
-	}
-
-	private void achieveLifeBalance(String plans) {
-		toExecute(plans);
-	}
-
-	private String toExecute() {
-		return "Execute the plans";
-	}
-
-	private String toExecute(String plans) {
-		return "Execute the plans";
 	}
 
 }
