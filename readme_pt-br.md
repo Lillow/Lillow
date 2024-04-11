@@ -37,7 +37,7 @@
 public class SobreMim {
 	private String nome = "Danillo Silva";
 	private String pronomes = "Ele | Dele";
-	private String função = "Back-end";
+	private String função = "Full-stack";
 	private String educacaoAtual = "Estácio";
 	private String hobbies[] = { 
 			"Academia", 
