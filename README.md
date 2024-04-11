@@ -38,7 +38,7 @@
 public class AboutMe {
 	private String name = "Danillo Silva";
 	private String pronouns = "He | His";
-	private String function = "Back-end";
+	private String function = "Full-stack";
 	private String currentEducation = "Estácio";
 	private String hobbies[] = { 
 			"Gym", 
