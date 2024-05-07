@@ -1,3 +1,17 @@
+<table>
+      <h2>Language | Idioma</h2>
+  <tr>
+    <td>
+        <a href="readme_pt-br.md">&#127463&#127479 Portuguese | Português</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="README.md">&#127482&#127480 English | Inglês</a>
+    </td>
+  </tr>
+</table>
+
 <h1>Danillo Silva | Web Developer</h1>
 
 ```c#
@@ -56,13 +70,6 @@ while (!myLife.Successful)
         <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     </div>
           
-          
-
-   
-
-
-
-
-<h2><Contacts</h2>
-<div></div>
+<!--  <h2>Contacts</h2>
+<div></div> /> -->
 
