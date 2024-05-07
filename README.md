@@ -31,10 +31,15 @@ while (!myLife.Successful)
 
 ```
 
-</br>
-      
-<div style="display: flex;">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=pt-br" />
 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&bg_color=161b22&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=pt-br" />
-</div>   
+<div align='start'>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff"/> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff"/>
+</div>
+
+<h2>Languages and Tools</h2>
+
+<h2><Contacts</h2>
+
+
