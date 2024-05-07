@@ -1,20 +1,4 @@
-<!-- <table>
-      <h2>Language/Idioma</h2>
-  <tr>
-    <td>
-      <a href="README.md">&#127482;&#127480; English | Inglês</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="readme_pt-br.md">&#x1f1e7;&#x1f1f7; Portuguese | Português</a>
-    </td>
-  </tr>
-</table> -->
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lillow.lillow)
-
-   
+<h1>Danillo Silva | Web Developer</h1>
 
 ```c#
 var lillo = new Developer
@@ -48,4 +32,9 @@ while (!myLife.Successful)
 ```
 
 </br>
+      
+<div style="display: flex;">
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=pt-br" />
 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&bg_color=161b22&title_color=901490&text_color=f8c9f8&hide_border=true&show_icons=true&icon_color=901490&locale=pt-br" />
+</div>   
