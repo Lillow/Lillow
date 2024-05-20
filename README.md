@@ -47,9 +47,9 @@ while (!myLife.Successful)
 
 
 <div align='start'>
-  <img width="56%"  src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff"/> 
+  <img width="59%"  src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff"/> 
   
-  <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff"/>
+  <img width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&langs_count=8&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff"/>
 </div>
 
 <h2>Languages and Tools</h2>
