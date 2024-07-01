@@ -47,7 +47,7 @@ while (!minhaVida.BemSucedida)
 
 
 <div align='start'>
-  <img width="59%"  src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff&locale=pt-br"/> 
+  <img width="59%"  src="https://github-readme-stats.vercel.app/api?username=lillow&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff&locale=pt-br&rank_icon=github"/> 
   
   <img width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&langs_count=8&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff&locale=pt-br"/>
 </div>
