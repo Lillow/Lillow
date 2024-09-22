@@ -19,7 +19,7 @@ var lillo = new Desenvolvedor
 {
     Nome = "Danillo Silva",
     Pronomes = "Ele | Dele",
-    Função = "Full-stack",
+    Função = "Backend",
     EducacaoAtual = "Estácio",
     Hobbies = [   "Aprender",
                   "Academia",
