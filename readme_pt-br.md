@@ -52,7 +52,7 @@ while (!minhaVida.BemSucedida)
   <img width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillow&layout=compact&langs_count=8&bg_color=161b22&title_color=e6edf3&text_color=94c0e5&hide_border=true&show_icons=true&icon_color=d2a8ff&locale=pt-br"/>
 </div>
 
-
+<!-- 
 <h2>Linguagens e Ferramentas</h2>
 <div>
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -85,6 +85,7 @@ while (!minhaVida.BemSucedida)
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
+-->
           
 <!--  <h2>Contacts</h2>
 <div></div> /> -->
